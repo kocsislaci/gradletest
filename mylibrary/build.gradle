@@ -37,7 +37,7 @@ afterEvaluate {
 
                 groupId = 'com.github.kocsislaci'
                 artifactId = 'gradletest'
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
